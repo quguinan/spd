@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/cms/biz/goods/supplier/supply/suCategory.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/cms/biz/goods/supplier/supply/suLicenseType.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/cms/biz/goods/supplier/supply/supplyLicense.jsp=UTF-8
+encoding//src/com/cms/controller/api/supply/test/PharmacyResponse.java=UTF-8
+encoding//src/com/cms/controller/api/supply/test/Pharmacy_SendWork.java=UTF-8
+encoding/<project>=UTF-8
