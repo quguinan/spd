@@ -1,3 +1,5 @@
+20200201
+
 select * from BMS_SU_CON_DOC t where t.suconid=2709;
 select * from BMS_SU_CON_DTL t where t.suconid=2709;
 
